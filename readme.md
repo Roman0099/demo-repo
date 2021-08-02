@@ -1,3 +1,3 @@
 # Demo
 
-Some description obout file.
+Some description about file.
